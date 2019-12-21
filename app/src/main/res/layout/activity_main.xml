@@ -7,6 +7,7 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
+<!--    <de.hdodenhof.circleimageview.CircleImageView-->
     <ListView
         android:id="@+id/pizzaStoreListView"
         android:layout_width="match_parent"
